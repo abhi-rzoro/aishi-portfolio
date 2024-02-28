@@ -1,0 +1,25 @@
+.header--main-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.header--home-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: Open Sans;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 41px;
+  letter-spacing: 0.04em;
+  text-align: left;
+}
+.header--hamburger-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.header--hamburger-image {
+  height: 10px;
+}
